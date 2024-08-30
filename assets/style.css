@@ -1,0 +1,102 @@
+* {
+    padding: 5px;
+    font-family: Arial;
+}
+
+.img-perfil {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-image: url("../assets/hp.jpg");
+    background-repeat: no-repeat;
+    background-position: 60% 30%;
+    background-size: 350px;
+    float: inline-start;
+}
+
+.nome {
+    text-align: center;
+    align-content: center;
+    height: 200px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.inicio {
+    height: 205px;
+}
+
+.sobre-mim {
+    height: 40px;
+}
+
+.texto2 {
+    display: flex;   
+    flex-direction: column;
+    
+    margin-top: 0px;
+}
+
+.Hogwarts{
+    width: 200px;
+    display: inline-block;
+    margin-top: 5px;
+    
+}
+
+.ano{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+}
+.Ministério{
+    width: 210px;
+    display: inline-block;
+    margin-top: 5px;
+}
+.ano2{
+    display: flex;
+    flex-direction: row;
+    
+    margin-top: 0px;
+}
+
+.diretor{
+    margin-left: 80px;
+   
+    
+}
+
+.ministro{
+    margin-left: 80px;
+    
+}
+
+.final{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.final1{
+    display: flex;
+    flex-direction: row;
+}
+
+.final2{
+    display: flex;
+    flex-direction: column;
+}
+
+.marina{
+    display: flex;
+    flex-direction: column;
+}
+ 
+.magia {
+    width: 50px;
+    font-weight: bold;
+    font-size: 16px;
+    
+}
+
